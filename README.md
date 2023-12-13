@@ -1,5 +1,5 @@
 # LCD Custom Chararacter Generator
-I took the code from [this](https://maxpromer.github.io/LCD-Character-Creator/) side to modify it to suit my needs
+I took the code from [this](https://maxpromer.github.io/LCD-Character-Creator/) side to modified it to suit my needs
 
 
 I added the ability to select more than just one character to create sprites that consists of multible custom characters
